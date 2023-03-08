@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil!! 😁
+## Bem-vindos(as)
 
  <div>
    <a href="https://github.com/Felipe-Venn">
